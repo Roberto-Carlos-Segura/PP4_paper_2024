@@ -1,0 +1,3 @@
+,control variable,experimental variable,phase,test,y-value,control n,experimental n,control mean,experimental mean,control stdev,experimental stdev,test statistic,degrees of freedom,critical value,p-value,significance
+0,WT,PP4KO,interphase,Unpaired Student's T-test,AC/Cyto GFP,24,41,4.903351388888889,2.82495162601626,1.0161728979720266,1.1945843187869725,7.449942091378811,63,1.6694022215079607,3.2724867260469637e-10,****
+1,WT,PP4KO,prometaphase,Unpaired Student's T-test,AC/Cyto GFP,16,10,4.0290687499999995,4.40529,1.0264124815368474,2.0657184063649776,-0.5360580293255135,24,1.7108820799094275,0.5968522800097422,ns
