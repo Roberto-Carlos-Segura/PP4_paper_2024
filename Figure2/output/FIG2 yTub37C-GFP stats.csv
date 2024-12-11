@@ -1,3 +1,0 @@
-,control variable,experimental variable,phase,test,y-value,control n,experimental n,control mean,experimental mean,control stdev,experimental stdev,test statistic,degrees of freedom,critical value,p-value,significance
-0,WT,PP4KO,interphase,Unpaired Student's T-test,GFP AC mean adj.,40,35,2.623508900037161,1.2643967402104213,0.6379739469717984,0.32543250025770454,11.829031603905891,73,1.665996223676495,0.0,****
-1,WT,PP4KO,prometaphase,Unpaired Student's T-test,GFP AC mean adj.,30,11,2.4714392873363886,1.8736952466291172,0.5861402288784213,0.6088406758479655,2.813082036800362,39,1.6848751194973992,0.007645861672958887,**
