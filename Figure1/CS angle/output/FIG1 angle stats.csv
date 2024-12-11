@@ -1,0 +1,3 @@
+,control variable,experimental variable,centrosome,test,y-value,control n,experimental n,control mean,experimental mean,control stdev,experimental stdev,test statistic,degrees of freedom,critical value,p-value,significance
+0,WT,PP4KO,AC,Unpaired Student's T-test,angle,21,29,32.98571428571429,62.16034482758621,18.78907357253906,40.6205560631172,-3.398181788520448,48,1.6772241953450393,0.0013725298980802325,**
+1,WT,PP4KO,BC,Unpaired Student's T-test,angle,13,18,100.96923076923078,90.6611111111111,35.950484109289924,38.234649190136565,0.7669717524515511,29,1.6991270265334972,0.44929760920189277,ns

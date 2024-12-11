@@ -1,0 +1,3 @@
+,control variable,experimental variable,phase,test,y-value,control n,experimental n,control mean,experimental mean,control stdev,experimental stdev,test statistic,degrees of freedom,critical value,p-value,significance
+0,WT,flfl[795],interphase,Unpaired Student's T-test,AC RFP norm,10,11,5.128045333333334,2.0384824242424244,1.0004421986834957,0.6521691852427575,8.294185813635082,19,1.729132811521367,9.761642361105771e-08,****
+1,WT,flfl[795],interphase,Unpaired Student's T-test,AC/BC,10,11,2.409086824259841,1.4438417604118068,0.6584358577734368,0.4050019939611991,3.9988272168748136,19,1.729132811521367,0.0007682476777506331,***
