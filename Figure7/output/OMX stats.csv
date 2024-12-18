@@ -1,0 +1,5 @@
+,control variable,control enrichment,experimental variable,experimental enrichment,phase,test,y-value,control n,experimental n,control mean,experimental mean,control stdev,experimental stdev,test statistic,degrees of freedom,critical value,p-value,significance
+0,WT,Daughter,PP4KO,Daughter,telophase,Mann-Whitney U Test,d/m log10,17,18,0.6631053013326792,0.5090394341867773,0.6152241549698468,0.30772215071361925,163.0,N/A,N/A,7.53865e-01,ns
+1,WT,Daughter,PP4KO,Mother,telophase,Mann-Whitney U Test,d/m log10,17,13,0.6631053013326792,-0.7916431258907164,0.6152241549698468,0.5069687461207711,221.0,N/A,N/A,4.15065e-06,****
+2,WT,Daughter,PP4KO,Symmetric,telophase,NA,d/m log10,17,2,0.6631053013326792,-0.03633139488966288,0.6152241549698468,0.006979138432844523,NA,NA,NA,NA,NA
+3,WT,Daughter,PP4KO,None,telophase,Exact Wilcoxon Rank-Sum Test,d/m log10,17,3,0.6631053013326792,0.518443196263522,0.6152241549698468,0.9420041791988657,0.6880329612324521,N/A,N/A,4.91432e-01,ns
