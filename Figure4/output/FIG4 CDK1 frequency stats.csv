@@ -1,0 +1,3 @@
+,control variable,experimental variable,test,control n,experimental n,test statistic,degrees of freedom,p-value,significance
+0,WT,cdk1 RNAi,Chi^2 goodness of fit,20,25,323.0,2,7.268439378731447e-71,****
+1,WT,Cdk1 Trapping,Chi^2 goodness of fit,20,10,351.6326530612245,2,4.404935557705001e-77,****
