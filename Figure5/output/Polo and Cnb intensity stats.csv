@@ -1,5 +1,0 @@
-,control variable,experimental variable,phase,marker,test,y-value,control n,experimental n,control mean,experimental mean,control stdev,experimental stdev,test statistic,degrees of freedom,critical value,p-value,significance
-0,WT,PP4KO,interphase,Polo::GFP,Mann-Whitney U Test,AC/Cyto,11,27,4.661695073181818,2.5640446315925933,1.1068914213286496,1.1883312839998597,267.0,N/A,N/A,1.45832e-04,***
-1,WT,PP4KO,prometaphase,Polo::GFP,Unpaired Student's T-test,AC/Cyto,7,8,4.071317927637103,6.440237671423874,1.510347019078648,1.1637290536760738,-3.4287663400841915,13,N/A,4.48738e-03,**
-0,WT,PP4KO,interphase,Cnb::GFP,Mann-Whitney U Test,AC/Cyto,8,20,6.8647032802139085,4.879349211068576,2.9236907121442623,3.0361858514621773,115.0,N/A,N/A,7.91633e-02,ns
-1,WT,PP4KO,prometaphase,Cnb::GFP,Mann-Whitney U Test,AC/Cyto,8,11,1.435350950460657,2.5293544342457386,0.3026712644591791,1.4094805478179107,21.0,N/A,N/A,6.20253e-02,ns
