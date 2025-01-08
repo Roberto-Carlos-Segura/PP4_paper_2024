@@ -1,4 +1,0 @@
-,control variable,experimental variable,phase,test,y-value,control n,experimental n,control mean,experimental mean,control stdev,experimental stdev,test statistic,degrees of freedom,critical value,p-value,significance
-0,WT,"PP4KO, 1X Cnb",interphase,Unpaired Student's T-test,AC/Cyto interphase,8,11,6.8647032802139085,4.789729412484721,2.9236907121442623,1.5720231031451677,2.002391948438253,17,N/A,6.14584e-02,ns
-1,WT,"PP4KO, 2X Cnb",interphase,Unpaired Student's T-test,AC/Cyto interphase,8,6,6.8647032802139085,6.829456482735171,2.9236907121442623,4.221130911539166,0.018526029442422983,12,N/A,9.85524e-01,ns
-2,WT,"PP4KO, 0X Cnb",interphase,Unpaired Student's T-test,AC/Cyto interphase,8,3,6.8647032802139085,1.3077405958761892,2.9236907121442623,0.2938923443309563,3.178788008963169,9,N/A,1.12066e-02,*
