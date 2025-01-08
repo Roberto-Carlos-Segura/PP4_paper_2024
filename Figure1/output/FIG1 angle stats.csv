@@ -1,3 +1,0 @@
-,control variable,experimental variable,centrosome,test,y-value,control n,experimental n,control mean,experimental mean,control stdev,experimental stdev,test statistic,degrees of freedom,critical value,p-value,significance
-0,WT,PP4KO,AC,Mann-Whitney U Test,angle,21,29,32.98571428571429,62.16034482758621,18.78907357253906,40.6205560631172,185.5,N/A,N/A,1.98431e-02,*
-1,WT,PP4KO,BC,Unpaired Student's T-test,angle,13,18,100.96923076923078,90.6611111111111,35.950484109289924,38.234649190136565,0.7591414192439674,29,N/A,4.53895e-01,ns
